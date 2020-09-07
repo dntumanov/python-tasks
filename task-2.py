@@ -1,8 +1,8 @@
 import re
 import os
 
-files: list = ['setup.py', 'ratings.txt', 'stock_stats.txt', 'movies.txt', 'run.sh', 'game_of_thrones.mov']
-data: list = []
+files = ['setup.py', 'ratings.txt', 'stock_stats.txt', 'movies.txt', 'run.sh', 'game_of_thrones.mov']
+data = []
 
 path: str = 'supp_files/task-2'
 
